@@ -1,0 +1,28 @@
+.thumbnail img{
+  max-height: 220px;
+  max-width: 600px;
+  padding : 15px;
+  align-items: center;
+}
+
+.thumbnail .description{
+  color : grey;
+}
+
+.price{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.pull-left { float: left; }
+.pull-right { float: right; }
+
+#signupcreate{
+  width: 60%;
+  margin: 0 auto;
+  float: none;
+}
+
+.hidden {
+    visibility: hidden;
+}

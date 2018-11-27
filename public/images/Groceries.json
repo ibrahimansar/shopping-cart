@@ -1,0 +1,140 @@
+  {
+    "Groceries" : {
+    "OILPARA" : {
+      "CATEGORY" : "COSMETICS",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/mac120120183.appspot.com/o/parachute-oil.jpg?alt=media&token=c51fc993-811f-47af-b115-c36932558a82",
+      "KEY" : "OILPARA",
+      "NAME" : "Parachute Oil",
+      "UNIT" : "LR",
+      "UNITPRICE" : 109.00
+    },
+    "PONDS_PDR" : {
+      "CATEGORY" : "COSMETICS",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/PONDS_PDR.jpg?alt=media&token=e011aa53-f2f4-4e9d-9608-c6868dd0abd4",
+      "KEY" : "PONDS_PDR",
+      "NAME" : "Ponds Powder",
+      "UNIT" : "PC",
+      "UNITPRICE" : 130.00
+    },
+    "FAIRNLOVELY" : {
+      "CATEGORY" : "COSMETICS",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/bpepper.jpg?alt=media&token=bb08cc1d-30a3-4e70-bce4-281fb3ca1461",
+      "KEY" : "FAIRNLOVELY",
+      "NAME" : "Fair & Lovely",
+      "UNIT" : "PC",
+      "UNITPRICE" : 180.00
+    },
+    "SUGARBAG" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/mac120120183.appspot.com/o/sugar.jpg?alt=media&token=3dea3254-f376-4e77-aaf0-53d0b509aa1a",
+      "KEY" : "SUGARBAG",
+      "NAME" : "Sugar",
+      "UNIT" : "KG",
+      "UNITPRICE" : 40.00
+    },
+    "WRICE" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/mac120120183.appspot.com/o/dry-brown-rice.jpg?alt=media&token=3033ac26-5d5b-44d3-8334-baf8018eaceb",
+      "KEY" : "WRICE",
+      "NAME" : "White Rice",
+      "UNIT" : "KG",
+      "UNITPRICE" : 120.00
+    },
+	"BPEPPER" : {
+    "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/bpepper.jpg?alt=media&token=bb08cc1d-30a3-4e70-bce4-281fb3ca1461",
+      "KEY" : "BPEPPER",
+      "NAME" : "Black Pepper",
+      "UNIT" : "KG",
+      "UNITPRICE" : 900.00
+    },
+    "BPEPPER_PDR" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/bpepperp.jpg?alt=media&token=5be4ea65-8f70-4d3c-9958-8594372bf447",
+      "KEY" : "BPEPPER_PDR",
+      "NAME" : "Black Pepper Powder",
+      "UNIT" : "KG",
+      "UNITPRICE" : 1200.00
+    },
+    "OILCOCO" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/oilcoco.jpg?alt=media&token=435f3a00-0e15-4eac-abbb-f9444ea462d7",
+      "KEY" : "OILCOCO",
+      "NAME" : "Coconut Oil",
+      "UNIT" : "LR",
+      "UNITPRICE" : 200.00
+    },
+    "COFFEE_PDR" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/COFFEE_PDR.jpg?alt=media&token=83a1079a-512a-4bdf-a046-8707ee668727",
+      "KEY" : "COFFEE_PDR",
+      "NAME" : "Coffee Powder",
+      "UNIT" : "KG",
+      "UNITPRICE" : 600.00
+    },
+    "OILGINGELLY" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/OILGINGELLY.jpg?alt=media&token=8266c598-6fa3-4912-97d7-481eef93dcbe",
+      "KEY" : "OILGINGELLY",
+      "NAME" : "Gingelly Oil",
+      "UNIT" : "LR",
+      "UNITPRICE" : 260.00
+    },
+    "GROUNDNUT" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/GROUNDNUT.jpg?alt=media&token=dbe20150-e773-406b-8b50-6a9559c9f257",
+      "KEY" : "GROUNDNUT",
+      "NAME" : "Ground Nut",
+      "UNIT" : "KG",
+      "UNITPRICE" : 144.00
+    },
+    "OILGROUNDNUT" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/OILGROUNDNUT.jpg?alt=media&token=b909ff59-9710-41da-86f2-e146510d561d",
+      "KEY" : "OILGROUNDNUT",
+      "NAME" : "Ground Nut Oil",
+      "UNIT" : "LR",
+      "UNITPRICE" : 185.00
+    },
+    "HONEY" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/HONEY.jpg?alt=media&token=a463f823-22ce-4ea7-bff7-488b7e16cb3a",
+      "KEY" : "HONEY",
+      "NAME" : "Honey",
+      "UNIT" : "LR",
+      "UNITPRICE" : 360.00
+    },
+    "IDLYRICE" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/IDLYRICE.jpg?alt=media&token=856160b6-6fce-4b96-809e-eedbb51fbe1c",
+      "KEY" : "IDLYRICE",
+      "NAME" : "Idly Rice",
+      "UNIT" : "KG",
+      "UNITPRICE" : 48.00
+    },
+    "KADPARUPPU" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/KADPARUPPU.png?alt=media&token=be620cb1-d6ce-4786-9b11-f288868a78ad",
+      "KEY" : "KADPARUPPU",
+      "NAME" : "Kadalai Paruppu",
+      "UNIT" : "KG",
+      "UNITPRICE" : 162.00
+    },
+    "MUSTARD" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/MUSTARD.jpg?alt=media&token=009bcdfd-e20b-468f-b703-f080c1e5f563",
+      "KEY" : "MUSTARD",
+      "NAME" : "Mustard",
+      "UNIT" : "KG",
+      "UNITPRICE" : 170.00
+    },
+    "KARUSEERAGAM" : {
+      "CATEGORY" : "KITCHEN",
+      "IMAGEURL" : "https://firebasestorage.googleapis.com/v0/b/macsample-56323.appspot.com/o/KARUSEERAGAM.jpg?alt=media&token=1a42c19c-ff46-4ccf-9903-3c89dbfdb331",
+      "KEY" : "KARUSEERAGAM",
+      "NAME" : "Karu Seeragam",
+      "UNIT" : "KG",
+      "UNITPRICE" : 500.00
+    }
+  }
+}
